@@ -1,0 +1,7 @@
+import networkx as nx
+import osmnx as ox
+
+city = ox.geocode_to_gdf("Freiburg im Breisgau, Germany")
+
+tags = {'amenity': 'cafe'}
+cafes = ox.features.features_from_place('Freiburg im Breisgau, Germany', tags)
