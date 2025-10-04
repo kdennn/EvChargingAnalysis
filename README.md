@@ -4,6 +4,6 @@
 As the Headline states goal of this is to learn Pandas, Geopandas, use of Datasets and plotting.
 
 TODO:
-- [X] Plot Bevohner data as a heatmap -> run cleanBevData.py
+- [X] Plot Bevohner data as a heatmap -> see plots
 - [ ] Plot Charger Data as a heatmap
 - [ ] Correlate the two Datasets
